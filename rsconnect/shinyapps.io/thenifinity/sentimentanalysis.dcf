@@ -1,0 +1,12 @@
+name: sentimentanalysis
+title:
+username:
+account: thenifinity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2290372
+bundleId: 3146214
+url: https://thenifinity.shinyapps.io/sentimentanalysis/
+when: 1589446301.10999
+asMultiple: FALSE
+asStatic: FALSE
