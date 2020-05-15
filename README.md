@@ -1,2 +1,2 @@
-# news-sentiment-analysis
-NLP Web App for Sentiment Analysing News Articles
+# Shiny R Web App - Australian News Articles Sentiment Analysis
+Deployed through ShinyR.io at https://thenifinity.shinyapps.io/sentimentanalysis/
